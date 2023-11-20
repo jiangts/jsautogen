@@ -1,0 +1,9 @@
+{
+  "name": "jsautogen",
+  "version": "1.0.0",
+  "description": "JS port of autogen",
+  "main": "jsautogen/index.js",
+  "repository": "https://github.com/jiangts/jsautogen",
+  "author": "Allan Jiang <jiangtsa@gmail.com>",
+  "license": "MIT"
+}
